@@ -2,7 +2,7 @@
 
 ---
 
-## Descripción
+## ✨ Descripción
 
 Módulo de galería con scroll dentro del JcDuro DashBoard, pensado para mostrar tarjetas o bloques de contenido en una lista vertical con altura limitada y barra de desplazamiento, manteniendo el estilo oscuro/neon del resto del panel. 
 
